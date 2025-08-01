@@ -1,0 +1,12 @@
+Copyright (c) 2025 Shlok Stampwala
+
+This software is provided for educational and personal learning purposes only.  
+You are permitted to view and use this code **as-is**.  
+
+You may not:
+- Copy or redistribute the code in any form
+- Modify or alter any part of the code
+- Use the code for commercial purposes
+- Publish derivative works without written permission from the author
+
+Violators may be subject to copyright infringement under applicable law.
